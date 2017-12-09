@@ -1,5 +1,5 @@
 # Site
-title:              Massively
+title:              1oner's Blog
 bio:                'Jekyll version of the Massively theme by HTML5UP'
 description:        "Jekyll version of the Massively theme by HTML5UP"
 locale:             en_US
@@ -13,7 +13,7 @@ defaults:
   values:
     permalink: "/blog/:title/"
     layout: post
-    author:
+    author: 1oner
 
 # Jekyll
 permalink:          /blog/:title/
@@ -31,19 +31,13 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   default
-
-# Social
-analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+disqus_shortname:   1oner
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           Shenyang, Liaoning, China
+email:              1oner@protonmail.com
+qq:                 604924685
+wechat:             lxh604924685
 
 # Gems
 gems:
